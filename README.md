@@ -115,7 +115,7 @@ The request body needs to be in JSON format and include the following properties
  ```
  {
     "clientName": "Postman",
-    "clientEmail": "valentin@example.com"
+    "clientEmail": "irena@example.com"
 }
  ```
 
